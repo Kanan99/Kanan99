@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kanan99
-- 👀 I’m interested in Artificial Intelligence      
+- 👋 Hi, I’m Kanan
+- 👀 I’m interested in Artificial Intelligence and web development     
 - 🌱 I’m currently learning Deep Learning applications in Engineering
