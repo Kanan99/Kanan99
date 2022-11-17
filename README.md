@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kanan
-- 👀 I’m interested in Artificial Intelligence and web development     
+- 👀 I’m interested in Artificial Intelligence and Web development     
 - 🌱 I’m currently learning Deep Learning applications in Engineering
