@@ -1,3 +1,7 @@
 - 👋 Hi, I’m Kanan
-- 👀 I’m interested in Artificial Intelligence and Web development     
-- 🌱 I’m currently learning Deep Learning applications in Engineering
+
+-My interests are:
+
+- Scientific machine learning 🧪🧬📈
+- Computer Vision 💻👁️‍🗨️
+- Natural Language Processing 🗣️📝
