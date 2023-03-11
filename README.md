@@ -2,10 +2,12 @@
 
 -My interests are:
 
-- Scientific machine learning 🧪🧬📈
--  High-performance computing 🚀💻⚡
+
+- High-performance computing 🚀💻⚡
 - Computer Vision 💻👁️‍🗨️
 - Natural Language Processing 🗣️📝
+- Scientific machine learning 🧪🧬📈
+
 
 
 Contacts:
