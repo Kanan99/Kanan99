@@ -11,7 +11,6 @@
 Contacts:
 
 -  kanansuleymanli99@gmail.com
--  kanansuleymanli@lavishyields.ca
 
 
 # 💻 Tech Stack:
